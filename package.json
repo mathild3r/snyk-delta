@@ -1,5 +1,5 @@
 {
-  "name": "snyk-delta",
+  "name": "snyk-delta-test",
   "description": "Prevent feature for CLI tests",
   "main": "dist/index.js",
   "version": "1.0.0",
